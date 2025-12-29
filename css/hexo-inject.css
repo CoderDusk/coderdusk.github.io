@@ -1,0 +1,11 @@
+.home-post-item .home-post-content {
+  display: none;
+}
+
+.home-post-item .home-read-more {
+  display: none;
+}
+
+.home-post-item .post-meta-info {
+  margin-top: 5px;
+}
